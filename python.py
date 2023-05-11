@@ -1,2 +1,9 @@
 mi primer python
-:wq
+:w
+sdfg
+sd
+fg
+sdag
+sda
+g
+df:wqq
